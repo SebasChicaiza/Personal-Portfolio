@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SebasChicaiza
-- 👀 I’m interested in cybersecurity, programming, business, crypto and fitness...
-- 🌱 I’m currently learning cybersecurity at college/
+- 👀 I’m interested in cybersecurity, programming, business, crypto, and fitness...
+- 🌱 I have a degree in Cybersecurity/
+- 🖥️ I'm studying Systems Engineering at Pontificia Universidad Católica del Ecuador
 - 💞️ I’m looking to collaborate on cybersecurity and programming projects
-- 📫 DM me with any question you may have, I'll be happy to answer you!
 
 <!---
 SebasChicaiza/SebasChicaiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
