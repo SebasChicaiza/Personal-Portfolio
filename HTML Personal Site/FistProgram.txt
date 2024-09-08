@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <hr>
+        <h1>THIS IS MY TWELVETH PAGE <br> in HTML</h1>
+        <br>
+        <h2> by </h2>
+        <br>
+        <h3> SIR SEBASTIAN CHICAIZA</h3>
+        <hr>
+    </body>
+</html>
